@@ -1,3 +1,7 @@
+变动说明：
+修改了从https://github.com/hustvl/4DGaussians.git下载的项目中的requirenment.txt文件
+删除了其中对torch版本的限制，避免和本机cuda版本的冲突
+
 # 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 
 ## CVPR 2024
